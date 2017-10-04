@@ -1,0 +1,33 @@
+.search-bar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 75%;
+}
+
+.video-title {
+    font-weight: bold;
+}
+
+.video-detail {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.media-heading {
+    font-weight: 500;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+.list-group-item:hover {
+    background-color: #eee;
+}
+.video-list-container {
+    overflow: scroll;
+}
